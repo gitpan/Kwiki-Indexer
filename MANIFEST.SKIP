@@ -1,5 +1,6 @@
 \.svn/
 \.bak
+\.swp
 \.tar\.gz$
 ~$
 \.#

@@ -4,7 +4,7 @@ use warnings;
 use Kwiki::Plugin qw(-Base);
 use mixin 'Kwiki::Installer';
 
-our $VERSION = sprintf "%d", q$Rev: 4 $ =~ m/(\d+)/;
+our $VERSION = "0.001000";
 
 const class_id => 'indexer';
 

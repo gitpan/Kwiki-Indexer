@@ -3,7 +3,7 @@ use inc::Module::Install;
 name('Kwiki-Indexer');
 abstract('Kwiki Indexer class.');
 author('Russell Heilling <chewtoy@s8n.net');
-version_from('lib/Kwiki/Indexer.pm');
+version('0.1.0');
 license('perl');
 
 requires( qw(perl 5.6.0

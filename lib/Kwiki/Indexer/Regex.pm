@@ -4,7 +4,7 @@ use warnings;
 use Kwiki::Indexer qw(-Base);
 use mixin 'Kwiki::Installer';
 
-our $VERSION = sprintf "%d", q$Rev: 4 $ =~ m/(\d+)/;
+our $VERSION = "0.001000";
 
 const class_id => 'indexer_regex';
 const class_title => 'Perl regex Index Engine';
