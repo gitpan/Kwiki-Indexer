@@ -1,0 +1,8 @@
+\.svn/
+\.bak
+\.tar\.gz$
+~$
+\.#
+Makefile.old$
+Makefile$
+blib/
